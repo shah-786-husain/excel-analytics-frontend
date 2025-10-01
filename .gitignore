@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+.pnpm-debug.log*
+
+# production build
+dist/
+
+# local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# editor / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
